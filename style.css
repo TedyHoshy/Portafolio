@@ -62,4 +62,5 @@ nav ul li a {
 
 nav ul li a:hover {
     color: var(--color-acento);
+    transition: var(--transicion);
 }
